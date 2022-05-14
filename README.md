@@ -13,3 +13,8 @@
 
 ![image](https://user-images.githubusercontent.com/40886278/168419779-1e8f774a-2ecf-4fec-831a-4ea1a51505e8.png)
 
+
+## Don't leave Anchor Tage Empty
+`<a> something </a>`
+This will be a bad practise instead use p tag or use `href` inside `<a>` tag
+
