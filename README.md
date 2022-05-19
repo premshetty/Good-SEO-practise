@@ -16,6 +16,10 @@ async is a good way to stop rendering time
 ![image](https://user-images.githubusercontent.com/40886278/168419779-1e8f774a-2ecf-4fec-831a-4ea1a51505e8.png)
 
 
+# combining styles and scripts 
+
+combine all the styles and scripts that are not in visible area while loading and put them in defer or create a function that exectes after the website loaded completely and push those styles and scripting so that the performance will be increaded 
+
 ## Don't leave Anchor Tage Empty
 `<a> something </a>`
 This will be a bad practise instead use p tag or use `href` inside `<a>` tag
